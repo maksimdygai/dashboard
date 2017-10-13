@@ -1,0 +1,1 @@
+export const numberToTime = number => `${number / 60 | 0}:${number % 60 === 0 ? '00' : number % 60}`

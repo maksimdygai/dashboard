@@ -1,0 +1,77 @@
+{
+	"items": [
+		{
+			"id"  : 1,
+			"name": "Дмитрий Рыжов"
+		},
+
+		{
+			"id"  : 2,
+			"name": "Наталья Рудова"
+		},
+
+		{
+			"id"  : 3,
+			"name": "Иван Иван"
+		}
+	],
+
+	"data": {
+		"agent": {
+			"calls"                      : 12, 
+			"calls_to_new_leads"         : 6,	
+			"calls_to_old_leads"         : 5,
+			"call_overall_length"        : 12381,
+			"call_average_length"        : 153,
+			"call_ups"                   : 3,
+			"overdue_calls"              : 1,
+			"transitions_up_funnel"      : 8,
+			"calls_with_no_status_change": 2,
+			"closed_failed"              : 4,
+			"not_answered"               : 5,
+			"non_target"                 : 1,
+			"planned_to_old_leads"       : 7,
+			"planned_not_answered"       : 4,
+			"overdue_to_old_leads"       : 1,
+			"overdue_not_answered"       : 3
+		},
+
+		"department": {
+			"calls"                      : 51,
+			"calls_to_new_leads"         : 27,
+			"calls_to_old_leads"         : 21,
+			"call_overall_length"        : 63202,
+			"call_average_length"        : 161,
+			"call_ups"                   : 16,
+			"overdue_calls"              : 5,
+			"transitions_up_funnel"      : 42,
+			"calls_with_no_status_change": 7,
+			"closed_failed"              : 22,
+			"not_answered"               : 26,
+			"non_target"                 : 6,
+			"planned_to_old_leads"       : 38,
+			"planned_not_answered"       : 19,
+			"overdue_to_old_leads"       : 3,
+			"overdue_not_answered"       : 14
+		},
+
+		"company": {
+			"calls"                      : 209,
+			"calls_to_new_leads"         : 138,
+			"calls_to_old_leads"         : 106,
+			"call_overall_length"        : 180223,
+			"call_average_length"        : 149,
+			"call_ups"                   : 81,
+			"overdue_calls"              : 27,
+			"transitions_up_funnel"      : 213,
+			"calls_with_no_status_change": 33,
+			"closed_failed"              : 112,
+			"not_answered"               : 124,
+			"non_target"                 : 31,
+			"planned_to_old_leads"       : 195,
+			"planned_not_answered"       : 94,
+			"overdue_to_old_leads"       : 17,
+			"overdue_not_answered"       : 73
+		}
+	}
+}

@@ -1,0 +1,19 @@
+#application.sidebar-disabled .content {margin-left: 0; border-left: none;}
+
+.summaryBox {
+    border-width: 2px;
+    cursor: grab;
+
+    .mainIcon {
+        font-size: 2em;
+    }
+
+    .value {
+        font-size: 28px;
+        color: #fff;
+        margin: 0;
+    }
+}
+
+.navbar-form-container {padding: 5px}
+.navbar-form-container .Select {width: 250px}
